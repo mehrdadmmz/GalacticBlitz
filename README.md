@@ -1,1 +1,1 @@
-# Galactic-Blitz
+# GalacticBlitz
